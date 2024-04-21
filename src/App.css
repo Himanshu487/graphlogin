@@ -19,6 +19,7 @@ width: 100%;
 .forgetBtn{
   background-color: transparent;
   border-style: none;
+  cursor: pointer;
 }
 
 .logIn {

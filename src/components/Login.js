@@ -45,6 +45,7 @@ const Login = () => {
 
   const handleForgotPassword = () => {
     console.log('Forgot Password');
+    alert('link to reset your password shared on your email');
   };
 
   return (
